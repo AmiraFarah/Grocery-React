@@ -1,0 +1,40 @@
+body{
+
+
+    background-color: darkseagreen;
+    justify-content: space-between;
+
+}
+
+.list-box{
+
+color :maroon;
+    border: solid 5px maroon ;
+    background-color:darkgrey;
+    height: 200px;
+    width:200px;
+    padding:20px;
+    list-style: none;
+}
+.dd{
+    display: flex;
+
+    flex-wrap: wrap;
+
+    border: 3px pink;
+    justify-content: space-around;
+    justify-items: center;
+
+}
+.form{
+    padding:2rem;
+    border: 3px;
+    background-color: white;
+width:200px;
+display: block;
+height: 200px;
+}
+
+.form label{
+    display:block;
+}
